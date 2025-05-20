@@ -18,6 +18,8 @@ header{
 
 .logoaulab{
     color: black;
+    width: 100px;
+    height: 100px;
 }
 
 
@@ -53,11 +55,15 @@ header{
 
 h2{
     color: blue;
+    font-size: 50 px;
+    background-color: rgb(150, 245, 30);
 }
 
 
 h4{
     color: violet;
+    font-size: 70 px;
+     background-color: rgb(250, 245, 30);
 }
 
 
